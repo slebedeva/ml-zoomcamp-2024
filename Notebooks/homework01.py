@@ -1,7 +1,7 @@
 import marimo
 
 __generated_with = "0.8.15"
-app = marimo.App(width="medium")
+app = marimo.App(width="medium", app_title="ml-zoomcamp-homework01")
 
 
 @app.cell
